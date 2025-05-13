@@ -16,3 +16,9 @@ public class starPattern
          s.close();
     }
 }
+
+
+
+// to execute a program steps
+// javac -d . starPattern.java 
+// java patternProgram.starPattern
